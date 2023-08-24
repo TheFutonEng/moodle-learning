@@ -1,0 +1,7 @@
+moodleUsername: moodle
+moodlePassword: moodle
+service:
+  type: ClusterIP
+
+ingress:
+  enabled: true
